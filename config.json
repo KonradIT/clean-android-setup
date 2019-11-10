@@ -1,0 +1,13 @@
+{
+  "burner": {
+    "apps": ["org.jak_linux.dns66", "eu.faircode.netguard", "org.calyxinstitute.vpn", "org.witness.sscphase1", "org.mozilla.klar", "rkr.simplekeyboard.inputmethod", "im.vector.alpha", "eu.siacs.conversations"],
+    "settings": [],
+    "scripts": []
+  },
+  "sandbox": {
+    "apps": ["com.tananaev.logcat", "com.github.sryze.wirebug", "dk.jens.backup","com.termux","com.vrem.wifianalyzer"],
+    "settings": [],
+    "scripts": []
+  }
+}
+
